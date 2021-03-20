@@ -1,0 +1,7 @@
+#!/usr/bin/zsh
+
+export MODE="dev"
+export MONGO_USER="<user here>"
+export MONGO_PSWD="<password here>"
+
+python manage.py
